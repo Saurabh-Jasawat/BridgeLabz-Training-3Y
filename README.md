@@ -1,7 +1,9 @@
-Java-Fundamental 
+BridgeLabz-Training-3Y:
 
-Core-Java 
+-Java-Fundamental 
 
-OOPS 
+-Core-Java 
 
-DSA
+-OOPS 
+
+-DSA
