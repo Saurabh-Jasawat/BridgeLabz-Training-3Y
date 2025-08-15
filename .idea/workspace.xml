@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09102d26-de95-4b9a-b8bf-ef78ea6cc85a" name="Changes" comment="Assignment 1">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -50,41 +52,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Add2No.executor": "Run",
-    "Application.AreaCircle.executor": "Run",
-    "Application.AvgPCM.executor": "Run",
-    "Application.BasicCalc.executor": "Run",
-    "Application.BirthYear.executor": "Run",
-    "Application.CtoF.executor": "Run",
-    "Application.CylVol.executor": "Run",
-    "Application.Discount.executor": "Run",
-    "Application.EarthVol.executor": "Run",
-    "Application.PensStuds.executor": "Run",
-    "Application.ProfitPercent.executor": "Run",
-    "Application.Q1.executor": "Run",
-    "Application.areaTri.executor": "Run",
-    "Application.cmToft.executor": "Run",
-    "Application.inputUnivFees.executor": "Run",
-    "Application.kmToMiles.executor": "Run",
-    "Application.kmToMilesInput.executor": "Run",
-    "Application.maxHandshakes.executor": "Run",
-    "Application.sqSide.executor": "Run",
-    "Application.totPrice.executor": "Run",
-    "Application.yardsMiles.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Core-Java",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Saurabh Singh/IdeaProjects/BridgeLabz-Training-3Y",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Add2No.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AreaCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AvgPCM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BasicCalc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BirthYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CtoF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CylVol.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Discount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EarthVol.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PensStuds.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProfitPercent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.areaTri.executor&quot;: &quot;Run&quot;,
+    &quot;Application.cmToft.executor&quot;: &quot;Run&quot;,
+    &quot;Application.inputUnivFees.executor&quot;: &quot;Run&quot;,
+    &quot;Application.kmToMiles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.kmToMilesInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maxHandshakes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sqSide.executor&quot;: &quot;Run&quot;,
+    &quot;Application.totPrice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.yardsMiles.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;core-java&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Saurabh Singh/IdeaProjects/BridgeLabz-Training-3Y&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="BridgeLabz-Training-3Y" />
@@ -133,11 +135,6 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="ad45e5fc-5b35-4514-9816-b71997873f2d" value="TOOL_WINDOW" />
-      </map>
-    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -148,24 +145,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Core-Java" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-        <entry key="ad45e5fc-5b35-4514-9816-b71997873f2d">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="Core-Java" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
