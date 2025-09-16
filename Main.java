@@ -1,15 +1,22 @@
 public class Main {
     public static void main(String[] args) {
-        // Create customer
-        Customer alice = new Customer("Alice");
+        // Create a Student
+        Student john = new Student("John");
 
-        // Add purchased products
-        alice.addProduct(new Product("Apples", 2, 3));   // 2 kg @ $3
-        alice.addProduct(new Product("Milk", 1, 2));     // 1 liter @ $2
-        alice.addProduct(new Product("Bread", 1, 2.5));  // 1 loaf @ $2.5
+        // Add subjects with marks
+        john.addSubject(new Subject("Maths", 90));
+        john.addSubject(new Subject("Science", 85));
+        john.addSubject(new Subject("English", 78));
 
-        // Generate and print bill
-        BillGenerator billGen = new BillGenerator();
-        billGen.printBill(alice);
+        // Calculate grade
+        GradeCalculator calc = new GradeCalculator();
+        String grade = calc.calculateGrade(john);
+
+        // Print result
+        System.out.println("Student: " + john.getName());
+        for (Subject s : john.getSubjects()) {
+            System.out.println(" - " + s.getName() + ": " + s.getMarks());
+        }
+        System.out.println("Final Grade: " + grade);
     }
 }
